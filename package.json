@@ -30,7 +30,7 @@
     "url": "https://github.com/rossan/mongoose-history/issues"
   },
   "dependencies": {
-    "mongoose": "~3.8.0"
+    "mongoose": "~3.8.18"
   },
   "devDependencies": {
     "mocha": "*",
